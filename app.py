@@ -48,8 +48,6 @@ dataset.describe().T
 # Count of null values
 dataset.isnull().sum()
 
-code 3
-
 """# Preprocessing"""
 
 dataset_new = dataset
